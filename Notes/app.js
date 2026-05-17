@@ -1,4 +1,4 @@
-a = prompt('Hello! What is your name: ')
 
-console.warn(!`Hello this is ${a}`);
+a = prompt('Hello! What is your name: ');
 
+console.warn(!`Welcome to the party ${a}...`);
